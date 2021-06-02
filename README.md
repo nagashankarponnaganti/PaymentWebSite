@@ -13,4 +13,4 @@ Instructions:
 8. See how Jenkins wrote the build to Plutora
 
 ## subheader
-Justin adding for test
+1. Justin adding for testing
